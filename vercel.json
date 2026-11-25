@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/(.*)", "destination": "https://cuidared2-0.onrender.com/$1" }
+  ]
+}
